@@ -8,7 +8,7 @@ func main() {
 	apellido = "Gamarra"
 	nombre = "Enrique" */
 
-	nombre, apellido := "Carlos", "Gamarra"
+	nombre, apellido := "Carlos", "Gamarra222"
 	edad := "21"
 
 	fmt.Println(nombre + " " + apellido + " " + "Edad:" + edad)
